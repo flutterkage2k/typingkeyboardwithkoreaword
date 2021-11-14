@@ -31,8 +31,8 @@
 .pub/
 /build/
 
-# user want 
-/lib/api.sheets
+# user want
+/lib/api/sheets/user_sheets_api.dart
 
 # Web related
 lib/generated_plugin_registrant.dart
